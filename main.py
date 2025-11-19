@@ -36,7 +36,6 @@ liked_songs = {
     }
 }
 
-
 def create_songs_dictionary():
     song_dictionary = {}
 
